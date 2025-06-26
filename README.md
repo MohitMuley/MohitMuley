@@ -1,11 +1,9 @@
-# Mohit_Muley04
-Full-Stack Developer | MERN Stack | GitHub Profile Portfolio README
 
 <h1 align="center">Hi 👋, I'm Mohit Muley</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohit_Muley04&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=MohitMuley&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -40,9 +38,9 @@ Full-Stack Developer | MERN Stack | GitHub Profile Portfolio README
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohit_Muley04&show_icons=true&theme=react" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohit_Muley04&theme=react" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit_Muley04&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohitMuley&show_icons=true&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MohitMuley&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitMuley&layout=compact&theme=react" />
 </p>
 
 ---
@@ -58,3 +56,4 @@ Full-Stack Developer | MERN Stack | GitHub Profile Portfolio README
 ### 🔥 Fun Fact
 I love converting caffeine ☕ into clean, optimized code.  
 Debugging? Just another puzzle I love solving 🧩.
+
