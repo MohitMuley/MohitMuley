@@ -9,16 +9,16 @@
 
 ### 🌐 Connect with me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muleymohit199@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muleymohit199@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-muley-b34843342/)
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 B.Tech in Computer Science @ GECA Aurangabad
-- 🛠️ Full-Stack Developer passionate about scalable web apps
-- 💬 Ask me about MERN, MongoDB, Tailwind CSS, REST APIs
+- 🎓 B.Tech in Computer Science @ GECA Aurangabad  
+- 🛠️ Full-Stack Developer passionate about scalable web apps  
+- 💬 Ask me about MERN, MongoDB, Tailwind CSS, REST APIs  
 - 🌱 Currently learning **ML & AL**, **System Design**, **WEB 3**
 
 ---
@@ -37,7 +37,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohitMuley&show_icons=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohitMuley&show_icons=true&theme=react&count_private=true&cache_seconds=60" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MohitMuley&theme=react" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitMuley&layout=compact&theme=react" />
 </p>
@@ -53,6 +53,6 @@
 ---
 
 ### 🔥 Fun Fact
+
 I love converting caffeine ☕ into clean, optimized code.  
 Debugging? Just another puzzle I love solving 🧩.
-
