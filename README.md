@@ -19,7 +19,7 @@
 - 🎓 B.Tech in Computer Science @ GECA Aurangabad
 - 🛠️ Full-Stack Developer passionate about scalable web apps
 - 💬 Ask me about MERN, MongoDB, Tailwind CSS, REST APIs
-- 🌱 Currently learning **TypeScript**, **System Design**, **DevOps**
+- 🌱 Currently learning **ML & AL**, **System Design**, **WEB 3**
 
 ---
 
