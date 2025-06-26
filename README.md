@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Mohit Muley</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
 
@@ -17,10 +16,10 @@
 
 ### 🧠 About Me
 
-- 🎓 B.Tech in Computer Science @ Government College of Engineering, Aurangabad (GECA)
-- 🛠️ Full-Stack Developer passionate about building scalable web applications
-- 🌱 Currently learning **System Design**, **DevOps**, and **TypeScript**
-- 💬 Ask me about **MERN Stack**, **API Integration**, **Tailwind CSS**, and **MongoDB Aggregation**
+- 🎓 B.Tech in Computer Science @ GECA Aurangabad
+- 🛠️ Full-Stack Developer passionate about scalable web apps
+- 💬 Ask me about MERN, MongoDB, Tailwind CSS, REST APIs
+- 🌱 Currently learning **TypeScript**, **System Design**, **DevOps**
 
 ---
 
@@ -56,3 +55,4 @@
 ### 🔥 Fun Fact
 I love converting caffeine ☕ into clean, optimized code.  
 Debugging? Just another puzzle I love solving 🧩.
+
